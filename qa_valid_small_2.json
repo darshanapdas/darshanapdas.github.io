@@ -1,0 +1,805 @@
+{
+ "version": "custom_squad_format",
+ "data": [
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "satire is a genre of literature, and sometimes graphic and performing arts, in which vices, follies, abuses, and shortcomings are held up to ridicule, ideally with the intent of shaming individuals, corporations, government, or society itself into improvement. although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.  a feature of satire is strong irony or sarcasm\u2014\"in satire, irony is militant\"\u2014but parody, burlesque, exaggeration, juxtaposition, comparison, analogy, and double entendre are all frequently used in satirical speech and writing. this \"militant\" irony or sarcasm often professes to approve of (or at least accept as natural) the very things the satirist wishes to attack.  satire is nowadays found in many artistic forms of expression, including internet memes, literature, plays, commentary, television shows, and media such as lyrics.  the word satire comes from the latin word \"satur\" and the subsequent phrase \".\" \"satur\" meant \"full\" but the juxtaposition with \"lanx\" shifted the meaning to \"miscellany or medley\": the expression \"lanx satura\" literally means \"a full dish of various kinds of fruits.\"  the word \"satura\" as used by quintilian, however, was used to denote only roman verse satire, a strict genre that imposed hexameter form, a narrower genre than what would be later intended as \"satire\". quintilian famously said that \"satura,\" that is a satire in hexameter verses, was a literary genre of wholly roman origin (\"satura tota nostra est\"). he was aware of and commented on greek satire, but at the time did not label it as such, although today the origin of satire is considered to be aristophanes' old comedy. the first critic to use the term \"satire\" in the modern broader sense was apuleius.",
+     "qas": [
+      {
+       "id": "100255",
+       "question": "what is used in a satirical writing?",
+       "answers": [
+        {
+         "answer_start": 525,
+         "text": "but parody, burlesque, exaggeration, juxtaposition, comparison, analogy, and double entendre are all frequently used in satirical speech and writing"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "chapter ix.  the fire.  raymond let the cattle browse about, while he went to work, cutting down some small, but yet pretty tall and bushy trees. he then brought up the team, and hooked a long chain into the ring which hung down from the middle of the yoke, upon the under side. the end of the chain trailed upon the ground, as the oxen came along, and caleb was very much interested to see how they would trample along, any where, among the rocks, roots, mire, logs, bushes, stumps, and, in fact, over and through almost any thing, chewing their cud all the time, patient and unconcerned. when they were brought up near to one of the trees that had been cut down, raymond would hook the chain around the butt end of it, and then, at his command, they would drag it out of its place in the line of the fence. after looking on for some time, caleb began to think that he would go to work; and he went to a little tree, with a stem about as big round as his arm, and began to saw away upon it. he found that the saw would run very well indeed; and in a short time, he got the tree off, and then undertook to drag it to the fence.  raymond was always a very silent man; he seldom spoke, unless to answer a question; and while caleb had been watching him, when he first began to work, instead of talking with caleb, as caleb would have desired, he was all the time singing,",
+     "qas": [
+      {
+       "id": "104524",
+       "question": "what were some of the things they walked amoung?",
+       "answers": [
+        {
+         "answer_start": 442,
+         "text": "rocks, roots, mire,"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "(cnn)a georgia police chief who said he accidentally shot and seriously injured his wife while the couple were sleeping in bed has resigned, the peachtree city police department said wednesday.  william mccollom stepped down as chief of police in peachtree city nearly a week after a prosecutor announced that although the new year's day shooting appeared accidental, mccollom could eventually face a misdemeanor charge accusing him of recklessly taking a gun to bed after drinking alcohol and taking sleeping medication.  the shooting in peachtree city, an upscale community of 35,000 people south of atlanta, left margaret mccollom paralyzed below the waist.  \"i have had had two families in peachtree city -- my police family and my personal family. in light of the recent tragedy in my personal family, i need to continue to focus my time and efforts there,\" william mccollom said in a message posted wednesday on the police department's facebook page.  medics and police rushed to the mccolloms' home early on january 1 after the chief called 911 to say he accidentally shot his wife as both were sleeping -- by inadvertently moving a gun that he had taken to bed with him.  \"the gun was in the bed, i went to move it, put it to the side, and it went off,\" mccollom says in a recording of the 911 call.  later in the call, the operator asked mccollom, \"were you asleep also when this happened?\"  \"yes,\" the chief, 57 at the time, replied.  last week, scott ballard, district attorney for a several-county area that includes peachtree city, said a georgia bureau of investigation probe found the following:",
+     "qas": [
+      {
+       "id": "105368",
+       "question": "What happened to his wife?",
+       "answers": [
+        {
+         "answer_start": 7,
+         "text": "georgia police chief who said he accidentally shot and seriously injured his wife"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the amazon rainforest (portuguese: floresta amaz\u00f4nica or amaz\u00f4nia; spanish: selva amaz\u00f3nica, amazon\u00eda or usually amazonia; french: for\u00eat amazonienne; dutch: amazoneregenwoud), also known in english as amazonia or the amazon jungle, is a moist broadleaf forest that covers most of the amazon basin of south america. this basin encompasses 7,000,000 square kilometres (2,700,000 sq mi), of which 5,500,000 square kilometres (2,100,000 sq mi) are covered by the rainforest. this region includes territory belonging to nine nations. the majority of the forest is contained within brazil, with 60% of the rainforest, followed by peru with 13%, colombia with 10%, and with minor amounts in venezuela, ecuador, bolivia, guyana, suriname and french guiana. states or departments in four nations contain \"amazonas\" in their names. the amazon represents over half of the planet's remaining rainforests, and comprises the largest and most biodiverse tract of tropical rainforest in the world, with an estimated 390 billion individual trees divided into 16,000 species.",
+     "qas": [
+      {
+       "id": "110307",
+       "question": "Is Ecuador on the countries that has a small amount of the area?",
+       "answers": [
+        {
+         "answer_start": 667,
+         "text": "minor amounts in venezuela, ecuador, bolivia, guyana, suriname and french guiana."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "jim rode his bike quickly. it was friday and he wanted to get to the lake. the path to the lake was long and winding. it was wetter on tuesday. jim had to wash his boot. his boot had once been frozen. it was frozen because he left it outside on sunday. he had to leave his boot outside for a long time. the lake was facing the tree. jim had to go home. he wanted food very badly. jim went home. he got inside and looked up at the ceiling. he walked to the refrigerator. jim took the yogurt out of the refrigerator. some milk was on the table and he grabbed a cup so he could pour himself some of the milk. jim also had a candy bar. jim sat down and rested. he was tired from the long bike ride. he finished his yogurt and began planning his next trip to the lake. it would not be long before he returned. he and his boots were ready for more fun outdoors monday.",
+     "qas": [
+      {
+       "id": "110530",
+       "question": "Was the path long and winding?",
+       "answers": [
+        {
+         "answer_start": 75,
+         "text": "the path to the lake was long and winding."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "beijing (cnn) -- anyone interested in world affairs, chinese diplomacy and china's future should know more about xi jinping.  xi (pronounced \"shee\"), china's vice president, will be visiting the united states this month for meetings at the white house in washington and will travel to other cities.  \"the visit is important to boost his stature at home -- here is the man the u.s. takes seriously, and he can deal with them on our behalf,\" says anthony saich, a china expert at the harvard kennedy school. \"for the u.s., it provides an opportunity to introduce him to key u.s. politicians and the american public. the same approach was taken with hu jintao before he took over.\"  xi, 58, is in line to be china's next paramount leader. he is expected to succeed hu when his second term ends in autumn this year and could rule china for 10 years.  but who is xi? some key information about him:  \u2022 he comes from a clique known as \"princelings,\" sons and daughters of revolutionary veterans. his father, xi zhongxun, was a revolutionary hero who was banished during the cultural revolution.  \u2022 when his father was in limbo, xi spent time as a teenager doing manual labor in china's countryside and went on to become a local party chief.  \u2022 he holds chemical engineering and law degrees from the prestigious tsinghua university, the alma mater of hu and other senior leaders.  \u2022 he served in the people's liberation army as an officer in the general office department and assistant to the chief of the policy-making central military commission.",
+     "qas": [
+      {
+       "id": "111834",
+       "question": "was he is a revolution?",
+       "answers": [
+        {
+         "answer_start": 1068,
+         "text": "cultural revolution."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "mike likes the man. mike is a gray, winter glove the man found in the snow. the man likes to bring lost gloves home. he puts them in a box. the gloves are warm and safe in the box. they also get to meet new friends when the man finds them and puts them in the box. mike has made many new friends since the man found him. he has become good friends with roger, katie, and jane. two of them, roger and katie, were found in the snow, like mike. jane was not. she was found in a pile of leaves. roger is a bright orange glove, jane is a pink mitten, and katie is a pink glove with purple fingers. jane also has a friend named rich. he is a large, black glove who the man found in a building. mike has met him, but they are not good friends yet. they all like to play tag and talk about how much they like their new lives. mike is really happy the man found him and he made so many new friends.",
+     "qas": [
+      {
+       "id": "117762",
+       "question": "Where was Jane found?",
+       "answers": [
+        {
+         "answer_start": 470,
+         "text": "in a pile of leave"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "chapter ii  marshall haney changes heart  it was well for haney that bertie did not see him as he sat above his gambling boards, watchful, keen-eyed, grim of visage, for she would have trembled in fear of him. \"haney's\" was both saloon and gambling hall. in the front, on the right, ran the long bar with its shining brass and polished mahogany (he prided himself on having the best bar west of denver), and in the rear, occupying both sides of the room, stood two long rows of faro and roulette outfits, together with card-tables and dice-boards. it was the largest and most prosperous gambling hall in the camps, and always of an evening was crowded with gamesters and those who came as lookers-on.  on the right side, in a raised seat about midway of the hall, haney usually sat, a handsome figure, in broad white hat, immaculate linen, and well-cut frock-coat, his face as pale as that of a priest in the glare of the big electric light. on the other side, and directly opposite, williams kept corresponding \"lookout\" over the dealers and the crowd. he was a bold man who attempted any shenanigan with mart haney, and the games of his halls were reported honest.  to think of a young and innocent girl married to this remorseless gambler, scarred with the gun and the knife, was a profanation of maidenhood--and yet, as he fell now and then into a dream, he took on a kind of savage beauty which might allure and destroy a woman. whatever else he was, he was neither commonplace nor mean. the visitors to whom he was pointed out as \"a type of our modern western desperado\" invariably acknowledged that he looked the part. his smile was of singular sweetness--all the more alluring because of its rarity--and the warm clasp of his big, soft hand had made him sheriff in san juan county, and his bravery and his love of fair play were well known and admired among the miners.",
+     "qas": [
+      {
+       "id": "119736",
+       "question": "Did this place have a saloon in it?",
+       "answers": [
+        {
+         "answer_start": 210,
+         "text": "\"haney's\" was both saloon and gambling hall"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "chapter 12  i saw her hold earl percy at the point with lustier maintenance than i did look for of such an ungrown warrior.  --king henry iv  as soon as violet could leave her little boy without anxiety, the two sisters deposited charles layton at the deaf and dumb asylum, with hopes that a few years' training there would enable him to become miss martindale's little page, the grand object of his desires.  their next and merriest excursion was to percy's lodgings, where he had various greek curiosities which he wished to show them; and theodora consented to come with her brother and sister in a simple straightforward way that violet admired.  his rooms were over a toy-shop in piccadilly, in such a roar of sounds that the ladies exclaimed, and arthur asked him how much he paid for noise.  'it is worth having,' said percy; 'it is cheerful.'  'do you think so?' exclaimed violet. 'i think carriages, especially late at night, make a most dismal dreary sound.'  'they remind me of an essay of miss talbot's where she speaks of her companions hastening home from the feast of empty shells,' said theodora.  'ay! those are your west-end carriages,' said percy; 'i will allow them a dreary dissatisfied sound. now mine are honest, business-like market-waggons, or hearty tradesfolk coming home in cabs from treating their children to the play. there is sense in those! i go to sleep thinking what drops of various natures make up the roar of that great human cataract, and wake up dreaming of the rhine falls.",
+     "qas": [
+      {
+       "id": "120493",
+       "question": "did the rest like the noise?",
+       "answers": [
+        {
+         "answer_start": 889,
+         "text": "'i think carriages, especially late at night, make a most dismal dreary sound.'"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the bpi (british recorded music industry) limited, commonly known as the british phonographic industry or bpi, is the british recorded music industry's trade association.  its membership comprises hundreds of music companies including all three \"major\" record companies in the uk (warner music uk, sony music entertainment, and universal music group), and hundreds of independent music labels and small to medium-sized music businesses.  it has represented the interests of british record companies since being formally incorporated in 1973 when the principal aim was to promote british music and fight copyright infringement.  in 2007, the association's legal name was changed from british phonographic industry limited (the).  it founded the annual brit awards for the british music industry in 1977, and, later, the classic brit awards. the organizing company, brit awards limited, is a fully owned subsidiary of the bpi. proceeds from both shows go to the brit trust, the charitable arm of the bpi that has donated almost \u00a315m to charitable causes nationwide since its foundation in 1989. in september 2013, the bpi presented the first ever brits icon award to sir elton john. the bpi also endorsed the launch of the mercury prize for the album of the year in 1992.  the recorded music industry's certified awards program, which attributes platinum, gold and silver status to singles, albums and music videos (platinum and gold only) based on their sales performance (see bpi certified awards program), has been administered by the bpi since its inception in 1973. in september 2008, the bpi became one of the founding members of uk music, an umbrella organisation representing the interests of all parts of the industry.",
+     "qas": [
+      {
+       "id": "121021",
+       "question": "How many independent labels?",
+       "answers": [
+        {
+         "answer_start": 356,
+         "text": "hundreds of independent music labels and small to medium-sized music businesses"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "chapter xxiii--willow widows  \"set your heart at rest. the fairyland buys not that child of me. - \"midsummer night's dream.\"  an expedition to minsterham finished the visit of dolores and her faithful \"nag,\" whose abilities as an assistant were highly appreciated, and who came home brilliantly happy to keep her remaining holiday with magdalen; while dolores repaired to clipstone. bernard had been obliged to go to london, to report himself to sir ferdinand travis underwood, but his wife and little girl were the reigning joy at clipstone. phyllis looked very white, much changed from the buxom girl who had gone out with her father two years ago. she had never recovered the loss of the little boy, and suffered the more from her husband's inability to bear expression, and it was an immense comfort to her to speak freely of her little one to her mother.  the little lilias looked frail, but was healthy, happy, and as advanced as a well-trained companion child of six could well be, and the darling of the young aunts, who expected dolores to echo their raptures, and declare the infinite superiority of the ceylonese to \"that little cornstalk,\" as valetta said.  \"there's no difficulty as to that,\" said dolores, laughing. \"the poor little cornstalk looks as if she had grown up under a blight.\"  \"it is a grand romance though,\" said mysie; \"only i wish that cousin harry had had any constancy in him.\"  \"i wonder if magdalen will adopt her!\" was valetta's bold suggestion.",
+     "qas": [
+      {
+       "id": "125904",
+       "question": "Who made a bold suggestion?",
+       "answers": [
+        {
+         "answer_start": 1454,
+         "text": "valetta's bold suggestion."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "natural selection is the differential survival and reproduction of individuals due to differences in phenotype. it is a key mechanism of evolution, the change in heritable traits of a population over time. charles darwin popularised the term \"natural selection\", and compared it with artificial selection.  variation exists within all populations of organisms. this occurs partly because random mutations arise in the genome of an individual organism, and offspring can inherit such mutations. throughout the lives of the individuals, their genomes interact with their environments to cause variations in traits. the environment of a genome includes the molecular biology in the cell, other cells, other individuals, populations, species, as well as the abiotic environment. individuals with certain variants of the trait may survive and reproduce more than individuals with other, less successful, variants; therefore, the population evolves. factors that affect reproductive success are also important, including sexual selection (now often included in natural selection) and fecundity selection.  natural selection acts on the phenotype, or the observable characteristics of an organism, but the genetic (heritable) basis of any phenotype that gives a reproductive advantage may become more common in a population. over time, this process can result in populations that specialise for particular ecological niches (microevolution) and may eventually result in speciation (the emergence of new species, macroevolution). in other words, natural selection is a key process in the evolution of a population. natural selection can be contrasted with artificial selection, in which humans intentionally choose specific traits, whereas in natural selection there is no intentional choice.",
+     "qas": [
+      {
+       "id": "147238",
+       "question": "Is reproductive success or failure important, which?",
+       "answers": [
+        {
+         "answer_start": 964,
+         "text": "reproductive success are also important,"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "alfred alder, a famous psychiatrist, had an interesting experience. when he was a small boy he got off to a poor start in arithmetic. his teacher got the idea that he had no ability in arithmetic, and told his parents what she thought in order that they would not expect too much of him. in this way, they too developed the idea, \"isn't it too bad that alfred can't do arithmetic?\" he accepted their mistaken estimate of his ability, feeling that it was useless to try, and that he was very poor at arithmetic, just as they expected.  one day he became very angry at the teacher and the other students because they laughed when he said he saw how to do a problem which none of the other students had been able to solve.  adler succeeded in solving the problem. this gave him confidence. he rejected the idea that he couldn't do arithmetic and was determined to show them that he could. his anger and his new found confidence stimulated him to go at arithmetic problems with a new spirit. he now worked with interest, determination, and purpose, and he soon became extraordinarily good at arithmetic. he not only proved that he could do arithmetic, but he learned early in life from his own experience that, if a person goes at a job with determination and purpose, he may astonish himself as well as others by his ability.  this experience made him realize that many people have more ability than they think they have, and that lack of success is as often the result of lack of knowledge of how to apply one's ability, lack of confidence, and lack of determination as it is the result of lack of ability.",
+     "qas": [
+      {
+       "id": "151722",
+       "question": "Is Alfred Alder good at math?",
+       "answers": [
+        {
+         "answer_start": 721,
+         "text": "adler succeeded in solving the problem"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "(cnn) -- serena williams fended off a stirring fightback from agnieszka radwanska to win her fifth wimbledon singles title with a 6-1 5-7 6-2 victory saturday.  it was the 30-year-old american's 14th grand slam crown and her first since winning at the all england club in 2010, but poland's radwanska made her fight every inch of the way.  suffering from a respiratory problem and trailing after a one-sided first set, radwanska recovered from a break down in the second to give williams a real centre court scare.  after leveling at one set all, radwanska took a 2-1 lead in the decider before williams romped to victory with a run of five straight games.  she celebrated by climbing into the players' box to embrace her sister venus and other close connections including her physiotherapist esther lee.  williams spent almost a year on the sidelines, being struck by first injury then serious illness after being laid low by dangerous blood clots.  historic victories, crushing defeats at wimbledon  a visibly emotional williams showed how much victory meant to her in her post-match interview.  \"i can't describe it. i almost didn't make it a few years ago. i was in hospital and i thought i'd never be here again, so this makes it so worth it,\" she said.  \"it's all the sweeter. i was so down but you never give up. you have to continue,\" she added.  williams has capped her steady return to the top with an emphatic performance on the grass courts, particularly since the quarterfinals where she dispatched reigning champion petra kvitova.",
+     "qas": [
+      {
+       "id": "166801",
+       "question": "Who was her opponent?",
+       "answers": [
+        {
+         "answer_start": 62,
+         "text": "agnieszka radwanska"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the canada 2006 census was a detailed enumeration of the canadian population. census day was may 16, 2006. the following census was the 2011 census. canada's total population enumerated by the 2006 census was 31,612,897. this count was lower than the official july 1, 2006 population estimate of 32,623,490 people.  over 12.7 million households, 32.5 million people were expected to be counted. canada post delivered census forms by mail to 70% of the country, primarily residents in urban areas. census enumerators delivered to the remaining 30% of households. every fifth home received the long questionnaire (53 questions versus 8 questions on the short form). for the first time, canadian residents were able to go online to fill in their forms. statistics canada expected approximately 20% of households to file their surveys electronically. persistent census staff are contacting tardy households. the total estimated cost of the 2006 census is $567 million spread over seven years, employing more than 25,000 full and part-time census workers.  new in the 2006 census questionnaire:  questions not asked in the 2006 census:  modified questions:  as the data were compiled, statistics canada released various census data products. the first set of data products was released on march 13, 2007, originally scheduled for release on february 13, 2007, covering population and dwelling counts by geographical unit. this was followed by other census data products.",
+     "qas": [
+      {
+       "id": "169934",
+       "question": "How many years was counting the 2006 census spread over?",
+       "answers": [
+        {
+         "answer_start": 904,
+         "text": "the total estimated cost of the 2006 census is $567 million spread over seven years"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "(cnn) -- the united states is deeply concerned about the well-being of eman al-obeidy, according to a state department source, and worked closely with officials in europe and libya to get her safely out of the country. the same source said the u.s. is \"prepared to provide whatever help and support eman may need.\"  al-obeidy grabbed the world's attention this spring when she accused libyan leader moammar gadhafi's security forces of gang-raping her.  she is now on the way to malta with her father, according to another high-level u.s. state department source. she will eventually head to a processing center in europe before leaving for a final destination.  she has told cnn on repeated occasions that she wants to go to the united states.  one of the state department sources told cnn that secretary of state hillary clinton \"has been deeply interested in the case and has followed it throughout.\"  al-obeidy was in qatar awaiting resettlement as a refugee when she was deported thursday and sent back to libya. she was reportedly beaten before being deported.  najah dawaji, a u.s.-based libyan pro-freedom activist, said she was with three key members of libya's transitional national council when they first learned that al-obeidy was forced from doha and arrived in benghazi, libya, on thursday. she said al-obeidy had a black eye, bruises on her legs and scratches on her arms.  al-obeidy told a journalist that officials in the transitional national council had pressured the qataris to expel her. but, according to dawaji, she did not blame the rebel group for the beating itself.",
+     "qas": [
+      {
+       "id": "173169",
+       "question": "Is Najah Dawaji a fan of freedom?",
+       "answers": [
+        {
+         "answer_start": 1068,
+         "text": "najah dawaji, a u.s.-based libyan pro-freedom activist,"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "found:a black watch is this your watch?it is found in the classroom. please call jessica at 36206018. lost:my school card my name is david hand. the number of my school card is 20070107. please call me at 33429703 or my friend judy. her phone number is 33073061. thank you.",
+     "qas": [
+      {
+       "id": "17799",
+       "question": "What's the color of the watch?",
+       "answers": [
+        {
+         "answer_start": 8,
+         "text": "black"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "envy is a feeling of discontent or covetousness with regard to someone \u2018s advantages, possessions, or traits such as beauty, success, or talent. it\u2019s also a common defense to shame, when we feel less than another in some respect. when the defense is working, we\u2019re not aware of feeling inadequate.",
+     "qas": [
+      {
+       "id": "182031",
+       "question": "when what they feel is envy?",
+       "answers": [
+        {
+         "answer_start": 0,
+         "text": "envy is a feeling of discontent or covetousness with regard to someone \u2018s advantages, possessions, or traits such as beauty, success, or talent."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "sorrento: weather forecast. the warmest day over the next 7 days in sorrento is forecast to be 23rd august at 36\u00b0c (97\u00b0f) and the warmest night on 24th august at 28\u00b0c (82\u00b0f). the average temperature over the next 7 days is forecast to be 32\u00b0c (90\u00b0f) and there will be 7 days of sunshine . the average for august is 24\u00b0c (74\u00b0f) in sorrento.",
+     "qas": [
+      {
+       "id": "192690",
+       "question": "How is the weather in sorrento italy?",
+       "answers": [
+        {
+         "answer_start": 28,
+         "text": "the warmest day over the next 7 days in sorrento is forecast to be 23rd august at 36\u00b0c (97\u00b0f) and the warmest night on 24th august at 28\u00b0c (82\u00b0f)."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "10% off + 5% back on any in-store purchase new members only: get 5% back from couponcabin (maximum $6.00) on any in-store purchase from world market, plus enter code cpncabin10 at checkout to save an additional 10%. maximum $6.00 back. cashback earnings are paid via check or paypal. see rules.",
+     "qas": [
+      {
+       "id": "195982",
+       "question": "What is the cost plus world market promo codes?",
+       "answers": [
+        {
+         "answer_start": 166,
+         "text": "cpncabin10"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "definition of jackal. 1  1 : any of several small omnivorous canids (such as canis aureus) of africa and asia having large ears, long legs, and bushy tails. 2  2a : a person who performs routine or menial tasks for anotherb : a person who serves or collaborates with another especially in the commission of base acts.",
+     "qas": [
+      {
+       "id": "232410",
+       "question": "who are the jackals?",
+       "answers": [
+        {
+         "answer_start": 226,
+         "text": "a person who serves or collaborates with another especially in the commission of base acts."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "for an unprecedented eight consecutive years, from the 2003\u201304 television season through the 2010\u201311 season, either its performance or result show had been ranked number one in u.s. television ratings. the popularity of american idol however declined, and on may 11, 2015, fox announced that the series would conclude its run in its fifteenth season.",
+     "qas": [
+      {
+       "id": "30332",
+       "question": "How many consecutive years did American Idol been ranked number one in ratings?",
+       "answers": [
+        {
+         "answer_start": 21,
+         "text": "eight"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "during the age of enlightenment, philosophers such as john locke advocated the principle in their writings, whereas others, such as thomas hobbes, strongly opposed it. montesquieu was one of the foremost supporters of separating the legislature, the executive, and the judiciary. his writings considerably influenced the opinions of the framers of the united states constitution.",
+     "qas": [
+      {
+       "id": "32530",
+       "question": "Who was a leading advocate of dividing government into different branches?",
+       "answers": [
+        {
+         "answer_start": 168,
+         "text": "montesquieu"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "typologically, estonian represents a transitional form from an agglutinating language to a fusional language. the canonical word order is svo (subject\u2013verb\u2013object).",
+     "qas": [
+      {
+       "id": "36375",
+       "question": "What sort of form is Estonian transitioning into?",
+       "answers": [
+        {
+         "answer_start": 89,
+         "text": "a fusional language"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "ac radio stations may play mainstream music, but they will exclude hip hop, dance tracks, hard rock, and some forms of teen pop, as they are less popular amongst the target demographic of these radio stations, which is intended for an adult audience. ac radio often targets the 25\u201344 age group, the demographic that has received the most attention from advertisers since the 1960s. a common practice in recent years is that many adult contemporary stations play less newer music because they also give ample airtime to hits of the past, so the de-emphasis on new songs slows the progression of the ac chart.",
+     "qas": [
+      {
+       "id": "36476",
+       "question": "Along with teen pop, dance and hard rock, what form of music is typically not heard on AC radio?",
+       "answers": [
+        {
+         "answer_start": 67,
+         "text": "hip hop"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "in 2011, it became apparent that the bail-out would be insufficient and a second bail-out amounting to \u20ac130 billion ($173 billion) was agreed in 2012, subject to strict conditions, including financial reforms and further austerity measures. as part of the deal, there was to be a 53% reduction in the greek debt burden to private creditors and any profits made by eurozone central banks on their holdings of greek debt are to be repatriated back to greece. greece achieved a primary government budget surplus in 2013. in april 2014, greece returned to the global bond market as it successfully sold \u20ac3 billion worth of five-year government bonds at a yield of 4.95%. greece returned to growth after six years of economic decline in the second quarter of 2014, and was the eurozone's fastest-growing economy in the third quarter.",
+     "qas": [
+      {
+       "id": "55568",
+       "question": "How much debt to creditors was Greece suppose to reduce?",
+       "answers": [
+        {
+         "answer_start": 280,
+         "text": "53%"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "florida is served by amtrak, operating numerous lines throughout, connecting the state's largest cities to points north in the united states and canada. the busiest amtrak train stations in florida in 2011 were: sanford (259,944), orlando (179,142), tampa union station (140,785), miami (94,556), and jacksonville (74,733). sanford, in greater orlando, is the southern terminus of the auto train, which originates at lorton, virginia, south of washington, d.c.. until 2005, orlando was also the eastern terminus of the sunset limited, which travels across the southern united states via new orleans, houston, and san antonio to its western terminus of los angeles. florida is served by two additional amtrak trains (the silver star and the silver meteor), which operate between new york city and miami. miami central station, the city's rapid transit, commuter rail, intercity rail, and bus hub, is under construction.",
+     "qas": [
+      {
+       "id": "57594",
+       "question": "Who does sunset limited service ?",
+       "answers": [
+        {
+         "answer_start": 519,
+         "text": "sunset limited, which travels across the southern united states via new orleans, houston, and san antonio to its western terminus of los angeles"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "most of the korean presbyterian denominations share the same name in korean, \ub300\ud55c\uc608\uc218\uad50\uc7a5\ub85c\ud68c (literally means the presbyterian church of korea or pck), tracing its roots to the united presbyterian assembly before its long history of disputes and schisms. the presbyterian schism began with the controversy in relation to the japanese shrine worship enforced during the japanese colonial period and the establishment of a minor division (koryu-pa, \uace0\ub824\ud30c, later the koshin presbyterian church in korea, koshin \uace0\uc2e0) in 1952. and in 1953 the second schism happened when the theological orientation of the chosun seminary (later hanshin university) founded in 1947 could not be tolerated in the pck and another minor group (the presbyterian church in the republic of korea, kijang, \uae30\uc7a5) was separated. the last major schism had to do with the issue of whether the pck should join the wcc. the controversy divided the pck into two denominations, the presbyterian church of korea (tonghap, \ud1b5\ud569) and the general assembly of presbyterian church in korea (hapdong, \ud569\ub3d9) in 1959. all major seminaries associated with each denomination claim heritage from the pyung yang theological seminary, therefore, not only presbyterian university and theological seminary and chongsin university which are related to pck but also hanshin university of prok all celebrated the 100th class in 2007, 100 years from the first graduates of pyung yang theological seminary.",
+     "qas": [
+      {
+       "id": "57908",
+       "question": "What year did the second schism take place?",
+       "answers": [
+        {
+         "answer_start": 519,
+         "text": "1953"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "sometimes overlooked during his life, james lind, a physician in the british navy, performed the first scientific nutrition experiment in 1747. lind discovered that lime juice saved sailors that had been at sea for years from scurvy, a deadly and painful bleeding disorder. between 1500 and 1800, an estimated two million sailors had died of scurvy. the discovery was ignored for forty years, after which british sailors became known as \"limeys.\" the essential vitamin c within citrus fruits would not be identified by scientists until 1932.",
+     "qas": [
+      {
+       "id": "61889",
+       "question": "How many sailors died from scurvy between the years 1500 and 1800?",
+       "answers": [
+        {
+         "answer_start": 310,
+         "text": "two million"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "in 2012, abigail fisher, an undergraduate student at louisiana state university, and rachel multer michalewicz, a law student at southern methodist university, filed a lawsuit to challenge the university of texas admissions policy, asserting it had a \"race-conscious policy\" that \"violated their civil and constitutional rights\". the university of texas employs the \"top ten percent law\", under which admission to any public college or university in texas is guaranteed to high school students who graduate in the top ten percent of their high school class. fisher has brought the admissions policy to court because she believes that she was denied acceptance to the university of texas based on her race, and thus, her right to equal protection according to the 14th amendment was violated. the supreme court heard oral arguments in fisher on october 10, 2012, and rendered an ambiguous ruling in 2013 that sent the case back to the lower court, stipulating only that the university must demonstrate that it could not achieve diversity through other, non-race sensitive means. in july 2014, the us court of appeals for the fifth circuit concluded that u of t maintained a \"holistic\" approach in its application of affirmative action, and could continue the practice. on february 10, 2015, lawyers for fisher filed a new case in the supreme court. it is a renewed complaint that the u.s. court of appeals for the fifth circuit got the issue wrong \u2014 on the second try as well as on the first. the supreme court agreed in june 2015 to hear the case a second time. it will likely be decided by june 2016.",
+     "qas": [
+      {
+       "id": "64102",
+       "question": "What did the admissions policy of the University of Texas supposedly violate?",
+       "answers": [
+        {
+         "answer_start": 290,
+         "text": "their civil and constitutional rights"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the dominican order was affected by a number of elemental influences. its early members imbued the order with a mysticism and learning. the europeans of the order embraced ecstatic mysticism on a grand scale and looked to a union with the creator. the english dominicans looked for this complete unity as well, but were not so focused on ecstatic experiences. instead, their goal was to emulate the moral life of christ more completely. the dartford nuns were surrounded by all of these legacies, and used them to create something unique. though they are not called mystics, they are known for their piety toward god and their determination to live lives devoted to, and in emulation of, him.",
+     "qas": [
+      {
+       "id": "66919",
+       "question": "What group of nuns are used all aspects of the Dominican Order for their work? ?",
+       "answers": [
+        {
+         "answer_start": 441,
+         "text": "dartford"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "by the early 2000s, laserdisc was completely replaced by dvd in the north american retail marketplace, as neither players nor software were then produced. players were still exported to north america from japan until the end of 2001. the format has retained some popularity among american collectors, and to a greater degree in japan, where the format was better supported and more prevalent during its life. in europe, laserdisc always remained an obscure format. it was chosen by the british broadcasting corporation (bbc) for the bbc domesday project in the mid-1980s, a school-based project to commemorate 900 years since the original domesday book in england. from 1991 up until the early 2000s, the bbc also used laserdisc technology to play out the channel idents.",
+     "qas": [
+      {
+       "id": "70662",
+       "question": "What was the BBC Domesday Project?",
+       "answers": [
+        {
+         "answer_start": 572,
+         "text": "a school-based project to commemorate 900 years since the original domesday book in england"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "as of 2013 the city of paris had 1,570 hotels with 70,034 rooms, of which 55 were rated five-star, mostly belonging to international chains and mostly located close to the centre and the champs-\u00e9lys\u00e9es. paris has long been famous for its grand hotels. the hotel meurice, opened for british travellers in 1817, was one of the first luxury hotels in paris. the arrival of the railroads and the paris exposition of 1855 brought the first flood of tourists and the first modern grand hotels; the h\u00f4tel du louvre (now an antiques marketplace) in 1855; the grand hotel (now the intercontinental legrand) in 1862; and the h\u00f4tel continental in 1878. the h\u00f4tel ritz on place vend\u00f4me opened in 1898, followed by the h\u00f4tel crillon in an 18th-century building on the place de la concorde in 1909; the hotel bristol on rue de fabourg saint-honor\u00e9 in 1925; and the hotel george v in 1928.",
+     "qas": [
+      {
+       "id": "72642",
+       "question": "When was the Hotel du Louvre opened?",
+       "answers": [
+        {
+         "answer_start": 412,
+         "text": "1855"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "after the treaty of utrecht (1713), sicily was handed over to the savoia, but by 1734 it was again a bourbon possession. charles iii chose palermo for his coronation as king of sicily. charles had new houses built for the growing population, while trade and industry grew as well. however, by now palermo was now just another provincial city as the royal court resided in naples. charles' son ferdinand, though disliked by the population, took refuge in palermo after the french revolution in 1798. his son alberto died on the way to palermo and is buried in the city. when the kingdom of the two sicilies was founded, the original capital city was palermo (1816) but a year later moved to naples.",
+     "qas": [
+      {
+       "id": "73778",
+       "question": "For what event did Charles III choose Sicily as the location?",
+       "answers": [
+        {
+         "answer_start": 151,
+         "text": "his coronation"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the patron saint of palermo is santa rosalia, who is widely revered. on 14 july, people in palermo celebrate the annual festino, the most important religious event of the year. the festino is a procession which goes through the main street of palermo to commemorate the miracle attributed to santa rosalia who, it is believed, freed the city from the black death in 1624. her remains were discovered in a cave on monte pellegrino, and her remains were carried around the city three times, banishing the plague. there is a sanctuary marking the spot where her remains were found which can be reached via a scenic bus ride from the city.",
+     "qas": [
+      {
+       "id": "73814",
+       "question": "Who is the popular patron saint of Palermo?",
+       "answers": [
+        {
+         "answer_start": 31,
+         "text": "santa rosalia"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "british empiricism, though it was not a term used at the time, derives from the 17th century period of early modern philosophy and modern science. the term became useful in order to describe differences perceived between two of its founders francis bacon, described as empiricist, and ren\u00e9 descartes, who is described as a rationalist. thomas hobbes and baruch spinoza, in the next generation, are often also described as an empiricist and a rationalist respectively. john locke, george berkeley, and david hume were the primary exponents of empiricism in the 18th century enlightenment, with locke being the person who is normally known as the founder of empiricism as such.",
+     "qas": [
+      {
+       "id": "75945",
+       "question": "What type of philosopher was Hobbes?",
+       "answers": [
+        {
+         "answer_start": 269,
+         "text": "empiricist"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "in 334 bc, alexander the great invaded the achaemenid empire, defeating the last achaemenid emperor, darius iii, at the battle of issus. following the premature death of alexander, iran came under the control of the hellenistic seleucid empire. in the middle of the 2nd century bc, the parthian empire rose to become the main power in iran, and the century-long geopolitical arch-rivalry between romans and parthians began, culminating in the roman\u2013parthian wars. the parthian empire continued as a feudal monarchy for nearly five centuries, until 224 ce, when it was succeeded by the sassanid empire. together with their neighboring arch-rival, the roman-byzantines, they made up the world's two most dominant powers at the time, for over four centuries.",
+     "qas": [
+      {
+       "id": "82951",
+       "question": "Who controlled the Archaemenid Empire after Alexander the Great died prematurely?",
+       "answers": [
+        {
+         "answer_start": 212,
+         "text": "the hellenistic seleucid empire"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "european union law is applied by the courts of member states and the court of justice of the european union. where the laws of member states provide for lesser rights european union law can be enforced by the courts of member states. in case of european union law which should have been transposed into the laws of member states, such as directives, the european commission can take proceedings against the member state under the treaty on the functioning of the european union. the european court of justice is the highest court able to interpret european union law. supplementary sources of european union law include case law by the court of justice, international law and general principles of european union law.",
+     "qas": [
+      {
+       "id": "92111",
+       "question": "By whom is European Law applied by?",
+       "answers": [
+        {
+         "answer_start": 33,
+         "text": "the courts of member states and the court of justice of the european union"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "the first recorded travels by europeans to china and back date from this time. the most famous traveler of the period was the venetian marco polo, whose account of his trip to \"cambaluc,\" the capital of the great khan, and of life there astounded the people of europe. the account of his travels, il milione (or, the million, known in english as the travels of marco polo), appeared about the year 1299. some argue over the accuracy of marco polo's accounts due to the lack of mentioning the great wall of china, tea houses, which would have been a prominent sight since europeans had yet to adopt a tea culture, as well the practice of foot binding by the women in capital of the great khan. some suggest that marco polo acquired much of his knowledge through contact with persian traders since many of the places he named were in persian.",
+     "qas": [
+      {
+       "id": "93812",
+       "question": "How did some suspect that Polo learned about China instead of by actually visiting it?",
+       "answers": [
+        {
+         "answer_start": 753,
+         "text": "through contact with persian traders"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "valid test",
+   "paragraphs": [
+    {
+     "context": "jane scott is fourteen and the year before last she began to study in a middle school. she likes dancing and singing and spends a lot of time on them. but she hates math and does not work hard at it. she thinks it difficult to learn. she falls behind her classmates and once failed the math exam. she decides to drop it. her father is angry with her when he knows about it. it was sunday. mr scott gave a call to his sister, who teaches math in another school. he hoped she would come and tell his daughter how to learn math. the woman came quickly and said. \"you're a clever girl, jane. i'm sure you'll soon do well in math if you work hard at it.\" \"i'm afraid i can't, aunt,\" said jane, \"girls can't be good at math.\" \"i don't think so,\" said the woman. \"i was good at it when was a girl. you must do more exercises and practice a math problem again and again until you master it. remember: practice makes perfect. well, it's a math problem. think about it and practice it again, and you'll work it out.\" \"ok,\" said the girl, \"let me try.\" about an hour later, jane took the exercise book to her aunt and said, \"i've done the problem ten times.\" \"well done!\" her aunt said happily, \"what result did you get?\" \"ten answers.\"",
+     "qas": [
+      {
+       "id": "97991",
+       "question": "Does anybody react to that?",
+       "answers": [
+        {
+         "answer_start": 321,
+         "text": "her father is angry with her when he knows about it."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
